@@ -6,7 +6,7 @@
 This repository was created with the aim of developing a joint project to solve a Churn Problem for Bank Customers.
 
 [pt]
-Este repositório foi criado com o objetivo de desenvolver um projeto conjunto para solução de um Problema de Churn em Clientes de um Banco.
+Este repositório foi criado com o objetivo de desenvolver um projeto conjunto para solução de um Problema de Churn em Clientes de um Banco cujo alvo é o publico europeu.
 
 
 ## Tools | Ferramentas
