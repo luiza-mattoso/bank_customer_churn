@@ -1,4 +1,4 @@
-# *Bank Customer Churn* *Project* *UNDER CONSTRUCTION*
+# *Bank Customer Churn* *Project* *[UNDER CONSTRUCTION]*
 
 ![5514](https://user-images.githubusercontent.com/74414640/190219462-c0db72f8-8cd5-4c93-8ef6-529448653e11.jpg)
 
