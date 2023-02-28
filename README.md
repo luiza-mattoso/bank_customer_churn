@@ -40,10 +40,4 @@ Esse repositório foi criado no intuito de auxiliar colegas a aprender a program
 
 * Operadores Lógicos em python ( IF | ELSE | ELIF ) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Tutorial_Operadores_Logicos.ipynb) ];
 
-*  Sparse Matrix ( CSC e COO ) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Tutorial_matriz_sparse.ipynb) ];
-
-* LIL matrix ( List of List matrix) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Tutorial_LiL_matrix.ipynb) ];
-
-* Regressao Linear (OLS statisModel) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Tutorial_Regress%C3%A3o_Linear.ipynb) ];
-
 * Plotly level 0 (just plot) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Tutorial_Plotly_beginning_level.ipynb) ];
