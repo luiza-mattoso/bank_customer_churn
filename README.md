@@ -1,6 +1,6 @@
 # *Bank Customer Churn* *Project* *[UNDER CONSTRUCTION]*
 
-![5514](https://user-images.githubusercontent.com/74414640/190219462-c0db72f8-8cd5-4c93-8ef6-529448653e11.jpg)
+![5514](https://github.com/luiza-mattoso/bank_customer_churn/blob/58703ceed28ad770a02ddbfc70eaa319ecee2ff5/bank_churn.avif)
 
 [en]
 This repository was created with the aim of developing a joint project to solve a Churn Problem for Bank Customers.
