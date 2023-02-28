@@ -1,20 +1,20 @@
 # *Bank Customer Churn* *Project* *[UNDER CONSTRUCTION]*
 
-![5514](https://github.com/luiza-mattoso/bank_customer_churn/blob/58703ceed28ad770a02ddbfc70eaa319ecee2ff5/bank_churn.avif)
+![5514](https://github.com/luiza-mattoso/bank_customer_churn/blob/e6a62f44451d573dbf65c7b8186498858e82692d/bank_customer_churn.PNG)
 
-[en]
+[EN]
 This repository was created with the aim of developing a joint project to solve a Churn Problem for Bank Customers.
 
-[pt]
+[PT]
 Este repositório foi criado com o objetivo de desenvolver um projeto conjunto para solução de um Problema de Churn em Clientes de um Banco cujo alvo é o publico europeu.
 
 
 ## Tools | Ferramentas
 
-[en]
+[EN]
 To facilitate the learning process, the codes will be developed in notebooks, and as necessary we will create .py codes to be run in [*vscode*](https://code.visualstudio.com/).
 
-[pt]
+[PT]
 Para facilitar o processo de aprendizagem, os códigos serão desenvolvidos em notebooks, e conforme for necessário criaremos códigos .py para serem rodados no [*vscode*](https://code.visualstudio.com/).
 
 
@@ -22,11 +22,11 @@ Para facilitar o processo de aprendizagem, os códigos serão desenvolvidos em n
 
 ## Introduction | Introdução
 
-[en]
+[EN]
 This repository was created to help colleagues learn to program in python. I will address basic issues such as variable definitions and gradually evolving to create graphics and as needs arise.
 
 
-[pt]
+[PT]
 Esse repositório foi criado no intuito de auxiliar colegas a aprender a programar em python. Irei abordar assuntos básico como definições de variáveis e aos poucos evoluindo para criação de gráficos e conforme forem surgindo as necessidades.
 
 
